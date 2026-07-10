@@ -1,0 +1,64 @@
+.home {
+  min-height: 100vh;
+  background: linear-gradient(135deg,#2563eb,#1e3a8a);
+  color: white;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero h1 {
+  font-size: 60px;
+}
+
+.hero h2 {
+  margin-top: 20px;
+}
+
+.hero p {
+  margin: 30px auto;
+  max-width: 700px;
+  line-height: 1.8;
+}
+
+.hero-buttons {
+  margin-top: 30px;
+}
+
+.login-btn,
+.signup-btn {
+  padding: 12px 28px;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 17px;
+}
+
+.login-btn {
+  background: white;
+  color: #2563eb;
+}
+
+.signup-btn {
+  background: gold;
+}
+
+.features {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  padding: 60px 20px;
+}
+
+.feature-card {
+  background: white;
+  color: black;
+  padding: 30px;
+  border-radius: 12px;
+  width: 260px;
+  text-align: center;
+}
