@@ -9,7 +9,7 @@ function Footer() {
         marginTop: "50px",
       }}
     >
-      © 2026 RewardWise | Developed by Bruhitha
+      © 2026 RewardWise | Developed by Bruhitha & Sai Koushik
     </footer>
   );
 }
